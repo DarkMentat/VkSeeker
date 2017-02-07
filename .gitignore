@@ -1,0 +1,12 @@
+.gradle/
+.idea/
+server/src/main/resources/static/
+build/
+out/
+
+.idea
+temp
+build
+node_modules
+public/js/bundle.js
+public/js/bundle.js.map
